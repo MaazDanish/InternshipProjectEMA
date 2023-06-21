@@ -106,12 +106,12 @@ The outputs at the frontend,database and backend parts are attached below.
 Front end:
 ![reactoutput]
 
-![react](./output/Screenshot%20(10).png)
+![react](./output/Screenshot%20(17).png)
 
 Backend:
 ![backendoutput]
 
-![springboot](./output/Screenshot (10).png)
+![springboot](./output/Screenshot%20(10).png)
 
 
 Database:
