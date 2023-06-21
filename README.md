@@ -106,12 +106,12 @@ The outputs at the frontend,database and backend parts are attached below.
 Front end:
 ![reactoutput]
 
-![react](https://github.com/MaazDanish/InternshipProjectEMA/blob/main/output/Screenshot%20(17).png)
+![react](./output/Screenshot%20(10).png)
 
 Backend:
 ![backendoutput]
 
-![springboot](https://github.com/MaazDanish/InternshipProjectEMA/blob/main/output/Screenshot%20(10).png)
+![springboot](./output/Screenshot (10).png)
 
 
 Database:
